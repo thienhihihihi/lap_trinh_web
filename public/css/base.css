@@ -2,6 +2,7 @@
     --primary-color: #FFCA2B;
     --text-color: #999;
     --white-color: #fff;
+    font-family: muli;
 }
 /* 
 .navbar {
@@ -79,6 +80,7 @@ small.error {
     width: 100%;
 }
 
+
 .equal-width select,
 .equal-width input {
     width: 100%;
@@ -100,3 +102,4 @@ small.error {
         height: 150px;
     }
 }
+
